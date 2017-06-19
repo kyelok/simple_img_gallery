@@ -47,4 +47,4 @@ target.close()
 
 print "wrote ", html_file
 print "opening ..."
-os.system("firefox " + html_file)
+os.system("google-chrome " + html_file)
